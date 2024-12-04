@@ -6,6 +6,9 @@ button{
     font-size: 20px;
     text-align: center;
 }
+.buttons{
+    text-align: center;
+}
 #startButton{
     background-color: blue;
 }
