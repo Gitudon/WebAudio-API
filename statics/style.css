@@ -4,4 +4,11 @@ h1{
 button{
     margin: 10px;
     font-size: 20px;
+    text-align: center;
+}
+#startButton{
+    background-color: blue;
+}
+#stopButton{
+    background-color: red;
 }
